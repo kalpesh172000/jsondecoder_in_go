@@ -1,0 +1,22 @@
+{
+    "name": "kalpesh patil",
+    "age": 25,
+    "height": 183.2,
+    "languages": ["cpp", "java", "go", "javascript"],
+    "mother": {
+        "name": "malti patil",
+        "age": 65,
+        "mother": {
+            "name": "nimbabai patil",
+            "age": "80"
+        },
+        "father": {
+            "name": "dajiba patil",
+            "age": 95
+        }
+    },
+    "brother": {
+        "name": "devendra patil",
+        "age": 33
+    }
+}
